@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229898317771",
+    "project_id": "hafiz-a-oyun",
+    "storage_bucket": "hafiz-a-oyun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229898317771:android:eff4cb41db7235da39104e",
+        "android_client_info": {
+          "package_name": "com.example.serbestcagrisim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229898317771-h9ac5g62itts7pj5f4s2jl8sh9iahkoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1jolaFURrQZLwzAQ3frG62cCOe4qe1hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229898317771-h9ac5g62itts7pj5f4s2jl8sh9iahkoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
